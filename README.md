@@ -1,1 +1,1 @@
-# Mini-project for my learning interests 😉
+### 🛤️ Mini-rails for my learning interests 😉
